@@ -1,0 +1,266 @@
+﻿sep=;
+country_or_region;year;variable;generation_twh
+South Korea;2000;Bioenergy;0.08
+South Korea;2000;Clean;113.08
+South Korea;2000;Coal;114.88
+South Korea;2000;Fossil;177.37
+South Korea;2000;Gas;29.66
+South Korea;2000;Hydro;4.01
+South Korea;2000;Nuclear;108.96
+South Korea;2000;Other Fossil;32.83
+South Korea;2000;Solar;0.01
+South Korea;2000;Wind;0.02
+South Korea;2000;Wind and solar;0.03
+South Korea;2001;Bioenergy;0.09
+South Korea;2001;Clean;114.57
+South Korea;2001;Coal;127.36
+South Korea;2001;Fossil;195.31
+South Korea;2001;Gas;33.67
+South Korea;2001;Hydro;2.33
+South Korea;2001;Nuclear;112.13
+South Korea;2001;Other Fossil;34.28
+South Korea;2001;Solar;0.01
+South Korea;2001;Wind;0.01
+South Korea;2001;Wind and solar;0.02
+South Korea;2002;Bioenergy;0.18
+South Korea;2002;Clean;122.53
+South Korea;2002;Coal;137.49
+South Korea;2002;Fossil;209.48
+South Korea;2002;Gas;42.93
+South Korea;2002;Hydro;3.23
+South Korea;2002;Nuclear;119.1
+South Korea;2002;Other Fossil;29.06
+South Korea;2002;Solar;0.01
+South Korea;2002;Wind;0.01
+South Korea;2002;Wind and solar;0.02
+South Korea;2003;Bioenergy;0.19
+South Korea;2003;Clean;134.78
+South Korea;2003;Coal;139.13
+South Korea;2003;Fossil;212.99
+South Korea;2003;Gas;45.51
+South Korea;2003;Hydro;4.89
+South Korea;2003;Nuclear;129.67
+South Korea;2003;Other Fossil;28.35
+South Korea;2003;Solar;0.01
+South Korea;2003;Wind;0.02
+South Korea;2003;Wind and solar;0.03
+South Korea;2004;Bioenergy;0.29
+South Korea;2004;Clean;135.37
+South Korea;2004;Coal;143.41
+South Korea;2004;Fossil;232.65
+South Korea;2004;Gas;63.18
+South Korea;2004;Hydro;4.31
+South Korea;2004;Nuclear;130.71
+South Korea;2004;Other Fossil;26.06
+South Korea;2004;Solar;0.01
+South Korea;2004;Wind;0.05
+South Korea;2004;Wind and solar;0.06
+South Korea;2005;Bioenergy;0.26
+South Korea;2005;Clean;150.85
+South Korea;2005;Coal;150.36
+South Korea;2005;Fossil;238.62
+South Korea;2005;Gas;64.49
+South Korea;2005;Hydro;3.67
+South Korea;2005;Nuclear;146.78
+South Korea;2005;Other Fossil;23.77
+South Korea;2005;Solar;0.01
+South Korea;2005;Wind;0.13
+South Korea;2005;Wind and solar;0.14
+South Korea;2006;Bioenergy;0.24
+South Korea;2006;Clean;152.73
+South Korea;2006;Coal;153.99
+South Korea;2006;Fossil;250.26
+South Korea;2006;Gas;74.84
+South Korea;2006;Hydro;3.47
+South Korea;2006;Nuclear;148.75
+South Korea;2006;Other Fossil;21.43
+South Korea;2006;Solar;0.03
+South Korea;2006;Wind;0.24
+South Korea;2006;Wind and solar;0.27
+South Korea;2007;Bioenergy;0.38
+South Korea;2007;Clean;147.4
+South Korea;2007;Coal;170.89
+South Korea;2007;Fossil;278.01
+South Korea;2007;Gas;84.4
+South Korea;2007;Hydro;3.63
+South Korea;2007;Nuclear;142.94
+South Korea;2007;Other Fossil;22.72
+South Korea;2007;Solar;0.07
+South Korea;2007;Wind;0.38
+South Korea;2007;Wind and solar;0.45
+South Korea;2008;Bioenergy;0.65
+South Korea;2008;Clean;155.4
+South Korea;2008;Coal;191.62
+South Korea;2008;Fossil;287.21
+South Korea;2008;Gas;81.77
+South Korea;2008;Hydro;3.07
+South Korea;2008;Nuclear;150.96
+South Korea;2008;Other Fossil;13.82
+South Korea;2008;Solar;0.28
+South Korea;2008;Wind;0.44
+South Korea;2008;Wind and solar;0.72
+South Korea;2009;Bioenergy;0.54
+South Korea;2009;Clean;152.38
+South Korea;2009;Coal;210.42
+South Korea;2009;Fossil;300.07
+South Korea;2009;Gas;71.3
+South Korea;2009;Hydro;2.81
+South Korea;2009;Nuclear;147.77
+South Korea;2009;Other Fossil;18.35
+South Korea;2009;Solar;0.57
+South Korea;2009;Wind;0.69
+South Korea;2009;Wind and solar;1.26
+South Korea;2010;Bioenergy;0.42
+South Korea;2010;Clean;154.29
+South Korea;2010;Coal;219.55
+South Korea;2010;Fossil;340.73
+South Korea;2010;Gas;103.97
+South Korea;2010;Hydro;3.68
+South Korea;2010;Nuclear;148.6
+South Korea;2010;Other Fossil;17.21
+South Korea;2010;Solar;0.77
+South Korea;2010;Wind;0.82
+South Korea;2010;Wind and solar;1.59
+South Korea;2011;Bioenergy;1.02
+South Korea;2011;Clean;162.12
+South Korea;2011;Coal;225.14
+South Korea;2011;Fossil;356.04
+South Korea;2011;Gas;115.47
+South Korea;2011;Hydro;4.6
+South Korea;2011;Nuclear;154.72
+South Korea;2011;Other Fossil;15.43
+South Korea;2011;Solar;0.92
+South Korea;2011;Wind;0.86
+South Korea;2011;Wind and solar;1.78
+South Korea;2012;Bioenergy;2.16
+South Korea;2012;Clean;158.5
+South Korea;2012;Coal;224.16
+South Korea;2012;Fossil;372.7
+South Korea;2012;Gas;128.46
+South Korea;2012;Hydro;3.97
+South Korea;2012;Nuclear;150.33
+South Korea;2012;Other Fossil;20.08
+South Korea;2012;Solar;1.13
+South Korea;2012;Wind;0.91
+South Korea;2012;Wind and solar;2.04
+South Korea;2013;Bioenergy;3.12
+South Korea;2013;Clean;149.01
+South Korea;2013;Coal;224.88
+South Korea;2013;Fossil;388.16
+South Korea;2013;Gas;143.12
+South Korea;2013;Hydro;4.29
+South Korea;2013;Nuclear;138.78
+South Korea;2013;Other Fossil;20.16
+South Korea;2013;Solar;1.67
+South Korea;2013;Wind;1.15
+South Korea;2013;Wind and solar;2.82
+South Korea;2014;Bioenergy;6.3
+South Korea;2014;Clean;169.3
+South Korea;2014;Coal;226.76
+South Korea;2014;Fossil;371.08
+South Korea;2014;Gas;130.7
+South Korea;2014;Hydro;2.75
+South Korea;2014;Nuclear;156.41
+South Korea;2014;Other Fossil;13.62
+South Korea;2014;Solar;2.69
+South Korea;2014;Wind;1.15
+South Korea;2014;Wind and solar;3.84
+South Korea;2015;Bioenergy;7.48
+South Korea;2015;Clean;179.96
+South Korea;2015;Coal;233.65
+South Korea;2015;Fossil;367.84
+South Korea;2015;Gas;121.43
+South Korea;2015;Hydro;2.15
+South Korea;2015;Nuclear;164.76
+South Korea;2015;Other Fossil;12.76
+South Korea;2015;Solar;4.23
+South Korea;2015;Wind;1.34
+South Korea;2015;Wind and solar;5.57
+South Korea;2016;Bioenergy;8.08
+South Korea;2016;Clean;180.12
+South Korea;2016;Coal;233.95
+South Korea;2016;Fossil;380.87
+South Korea;2016;Gas;129.7
+South Korea;2016;Hydro;2.85
+South Korea;2016;Nuclear;161.99
+South Korea;2016;Other Fossil;17.22
+South Korea;2016;Solar;5.52
+South Korea;2016;Wind;1.68
+South Korea;2016;Wind and solar;7.2
+South Korea;2017;Bioenergy;9.61
+South Korea;2017;Clean;170.76
+South Korea;2017;Coal;259.49
+South Korea;2017;Fossil;405.65
+South Korea;2017;Gas;136
+South Korea;2017;Hydro;2.81
+South Korea;2017;Nuclear;148.43
+South Korea;2017;Other Fossil;10.16
+South Korea;2017;Solar;7.74
+South Korea;2017;Wind;2.17
+South Korea;2017;Wind and solar;9.91
+South Korea;2018;Bioenergy;11.81
+South Korea;2018;Clean;161.31
+South Korea;2018;Coal;256.54
+South Korea;2018;Fossil;431.59
+South Korea;2018;Gas;164.17
+South Korea;2018;Hydro;3.36
+South Korea;2018;Nuclear;133.51
+South Korea;2018;Other Fossil;10.88
+South Korea;2018;Solar;10.17
+South Korea;2018;Wind;2.46
+South Korea;2018;Wind and solar;12.63
+South Korea;2019;Bioenergy;13.35
+South Korea;2019;Clean;178.92
+South Korea;2019;Coal;243.67
+South Korea;2019;Fossil;407.88
+South Korea;2019;Gas;156.04
+South Korea;2019;Hydro;2.79
+South Korea;2019;Nuclear;145.91
+South Korea;2019;Other Fossil;8.17
+South Korea;2019;Solar;14.19
+South Korea;2019;Wind;2.68
+South Korea;2019;Wind and solar;16.87
+South Korea;2020;Bioenergy;14.03
+South Korea;2020;Clean;200.58
+South Korea;2020;Coal;206.92
+South Korea;2020;Fossil;376.54
+South Korea;2020;Gas;162.4
+South Korea;2020;Hydro;3.88
+South Korea;2020;Nuclear;160.18
+South Korea;2020;Other Fossil;7.22
+South Korea;2020;Solar;19.34
+South Korea;2020;Wind;3.15
+South Korea;2020;Wind and solar;22.49
+South Korea;2021;Bioenergy;17.15
+South Korea;2021;Clean;206.11
+South Korea;2021;Coal;212.09
+South Korea;2021;Fossil;401.65
+South Korea;2021;Gas;180.54
+South Korea;2021;Hydro;3.05
+South Korea;2021;Nuclear;158.01
+South Korea;2021;Other Fossil;9.02
+South Korea;2021;Solar;24.72
+South Korea;2021;Wind;3.18
+South Korea;2021;Wind and solar;27.9
+South Korea;2022;Bioenergy;17.85
+South Korea;2022;Clean;231.54
+South Korea;2022;Coal;208.41
+South Korea;2022;Fossil;393.06
+South Korea;2022;Gas;176.3
+South Korea;2022;Hydro;3.54
+South Korea;2022;Nuclear;176.05
+South Korea;2022;Other Fossil;8.35
+South Korea;2022;Solar;30.73
+South Korea;2022;Wind;3.37
+South Korea;2022;Wind and solar;34.1
+South Korea;2023;Bioenergy;19.25
+South Korea;2023;Clean;236.22
+South Korea;2023;Coal;205.08
+South Korea;2023;Fossil;381.7
+South Korea;2023;Gas;168.82
+South Korea;2023;Hydro;3.72
+South Korea;2023;Nuclear;180.49
+South Korea;2023;Other Fossil;7.8
+South Korea;2023;Solar;29.37
+South Korea;2023;Wind;3.39
+South Korea;2023;Wind and solar;32.76
